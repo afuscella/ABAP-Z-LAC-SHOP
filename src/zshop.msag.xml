@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSHOP</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Shop: Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSHOP</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>An internal error has happened while creating new data in &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSHOP</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Amount &amp;1 has an unconverted format</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSHOP</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>An internal error has happened while updating the database in &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSHOP</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>An internal error happened while deleting existing data in &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSHOP</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Object data already exists.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSHOP</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Object data not found</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
