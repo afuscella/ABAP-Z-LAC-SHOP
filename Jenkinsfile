@@ -18,7 +18,7 @@ node {
 					[
 						name: 'origin', 
 						refspec: '+refs/pull/${ghprbPullId}/*:refs/remotes/origin/pr/${ghprbPullId}/*', 
-						url: 'https://github.com/afuscella/ABAP-Z-LAC.git']
+						url: 'https://github.com/afuscella/ABAP-Z-LAC-SHOP.git']
 					]
 			])
 		}
